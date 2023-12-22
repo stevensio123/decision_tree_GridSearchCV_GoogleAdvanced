@@ -1,6 +1,6 @@
 # Lab: Decision Tree Model
 
-In this lab, I built an effective decision tree model. I were presented with a business scenario and a dataset to use as I explore using a decision tree model to make predictions for a target based on multiple features. I practiced applying importing packages, loading data, and completing the cleaning process to build and evaluate a decision tree model with tuned hyperparameters.
+In this project, I were presented with a business scenario and a dataset to use as I explore using a decision tree model to make predictions for a target based on multiple features. I practiced the process of building and evaluating a decision tree model with tuned hyperparameters using GridsearchCV
 
 ## Data Dictionary
 
